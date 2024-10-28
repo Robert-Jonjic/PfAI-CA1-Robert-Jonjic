@@ -29,7 +29,7 @@ bash
 pip install numpy pandas mysql-connector-python matplotlib seaborn scikit-learn  
 
 ### Questions Summary  
-Q1: Data Categorization Function  
+### Q1: Data Categorization Function  
 In this task, we created a user-defined function to categorize columns into numeric and categorical types without using pandas' built-in methods. The function accepts a DataFrame and returns two lists: numeric and categorical columns. This function is key for feature engineering in AI models, providing efficient data preprocessing methods.  
 
 ### Q2: Data Concatenation and Correlation  
