@@ -45,13 +45,13 @@ In this task, we connected to a MySQL database, created tables, inserted data, a
 This question involves a full EDA on the Iris dataset using pandas and visualization libraries. The analysis includes descriptive statistics, visualizations (histograms, boxplots), and a correlation matrix to provide insights into feature distributions and interrelationships. EDA is a foundational step in AI, enabling data understanding, which informs model choice and feature engineering.  
 
 ### Running the Code  
-1. Clone the repository:
-bash
-git clone https://github.com/Robert-Jonjic/PfAI-CA1-Robert-Jonjic.git
-cd PfAI-CA1-Robert-Jonjic
+1. Clone the repository:  
+bash  
+git clone https://github.com/Robert-Jonjic/PfAI-CA1-Robert-Jonjic.git  
+cd PfAI-CA1-Robert-Jonjic  
 
-2. Open the CA1_Programming_AI_Concepts.ipynb in Jupyter Notebook:
-bash
-jupyter notebook CA1_Programming_AI_Concepts.ipynb
+2. Open the CA1_Programming_AI_Concepts.ipynb in Jupyter Notebook:  
+bash  
+jupyter notebook CA1_Programming_AI_Concepts.ipynb  
 
 3. Execute each cell in the notebook sequentially to view outputs, visualizations, and any analysis. Screenshots and appendices are included for easier reference.
