@@ -1,4 +1,4 @@
-# Data Analysis and SQL Integration Assessment  
+# Report on Exploratory Data Analysis, Data Processing, and SQL Integration for AI Applications    
 
 This repository contains the code and analysis for a Python-based data exploration and manipulation assessment. The assessment consists of five key questions focusing on data analysis, exploratory data analysis (EDA), and SQL integration. Each question highlights essential Python libraries, data manipulation techniques, and analytical approaches applicable in data science and artificial intelligence (AI).  
   
