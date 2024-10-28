@@ -1,21 +1,21 @@
-# Data Analysis and SQL Integration Assessment
+# Data Analysis and SQL Integration Assessment  
 
-This repository contains the code and analysis for a Python-based data exploration and manipulation assessment. The assessment consists of five key questions focusing on data analysis, exploratory data analysis (EDA), and SQL integration. Each question highlights essential Python libraries, data manipulation techniques, and analytical approaches applicable in data science and artificial intelligence (AI).
-
-Table of Contents:
-Project Overview
-Prerequisites
-Questions Summary
-Q1: Data Categorization Function
-Q2: Data Concatenation and Correlation
-Q3: Windowed Mean and Statistical Calculation
-Q4: SQL Database Connection and Table Manipulation
-Q5: Exploratory Data Analysis (EDA) on Iris Dataset
-Running the Code
-References
-
-Project Overview
-This project serves as a comprehensive assessment of skills in Python programming, NumPy, pandas, MySQL integration, and data visualization techniques. Each question is solved in an .ipynb notebook file and can be executed in a Jupyter Notebook environment to explore data categorization, manipulation, statistical calculations, and exploratory data analysis (EDA).
+This repository contains the code and analysis for a Python-based data exploration and manipulation assessment. The assessment consists of five key questions focusing on data analysis, exploratory data analysis (EDA), and SQL integration. Each question highlights essential Python libraries, data manipulation techniques, and analytical approaches applicable in data science and artificial intelligence (AI).  
+  
+## Table of Contents:  
+Project Overview  
+Prerequisites  
+Questions Summary  
+Q1: Data Categorization Function  
+Q2: Data Concatenation and Correlation  
+Q3: Windowed Mean and Statistical Calculation  
+Q4: SQL Database Connection and Table Manipulation  
+Q5: Exploratory Data Analysis (EDA) on Iris Dataset  
+Running the Code  
+References  
+  
+### Project Overview  
+This project serves as a comprehensive assessment of skills in Python programming, NumPy, pandas, MySQL integration, and data visualization techniques. Each question is solved in an .ipynb notebook file and can be executed in a Jupyter Notebook environment to explore data categorization, manipulation, statistical calculations, and exploratory data analysis (EDA).  
 
 Prerequisites
 Ensure you have the following libraries installed:
